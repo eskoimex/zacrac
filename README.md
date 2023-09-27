@@ -32,16 +32,16 @@ https://documenter.getpostman.com/view/8425786/2s9YJZ3jMR
 https://zacrac-t475.onrender.com/
 
 
-## END POINTS
+# END POINTS
 
-# Ping 
+## Ping 
 https://zacrac-t475.onrender.com/ping
 
-# Authentication
-https://zacrac-t475.onrender.com/api/v1/signup
-https://zacrac-t475.onrender.com/api/v1/login
+## Authentication
+- https://zacrac-t475.onrender.com/api/v1/signup
+- https://zacrac-t475.onrender.com/api/v1/login
 
-# User
+## User
 - Create User - POST - https://zacrac-t475.onrender.com/api/v1/signup
 - List Users - GET - https://zacrac-t475.onrender.com/api/v1/signup
 - Fetch A User(By email,id, username) - GET - https://zacrac-t475.onrender.com/api/v1/signup/{param}
