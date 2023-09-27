@@ -34,19 +34,19 @@ https://zacrac-t475.onrender.com/
 
 ## END POINTS
 
-- Ping 
+# Ping 
 https://zacrac-t475.onrender.com/ping
 
-- Authentication
+# Authentication
 https://zacrac-t475.onrender.com/api/v1/signup
 https://zacrac-t475.onrender.com/api/v1/login
 
-- User
-Create User - POST - https://zacrac-t475.onrender.com/api/v1/signup
-List Users - GET - https://zacrac-t475.onrender.com/api/v1/signup
-Fetch A User(By email,id, username) - GET - https://zacrac-t475.onrender.com/api/v1/signup/{param}
-Update A User(By email,id, username) - PUT - https://zacrac-t475.onrender.com/api/v1/signup/{param}
-Delete A User(By email,id, username) - DELETE - https://zacrac-t475.onrender.com/api/v1/signup/{param}
+# User
+- Create User - POST - https://zacrac-t475.onrender.com/api/v1/signup
+- List Users - GET - https://zacrac-t475.onrender.com/api/v1/signup
+- Fetch A User(By email,id, username) - GET - https://zacrac-t475.onrender.com/api/v1/signup/{param}
+- Update A User(By email,id, username) - PUT - https://zacrac-t475.onrender.com/api/v1/signup/{param}
+- Delete A User(By email,id, username) - DELETE - https://zacrac-t475.onrender.com/api/v1/signup/{param}
 
 
 
