@@ -1,7 +1,10 @@
 {
   "name": "zarcrac",
   "version": "1.0.0",
+
   "scripts": {
+    "start": "npx ts-node src/index.ts",
+
     "dev": "nodemon",
     "build": "rm -rf dist && tsc && NODE_ENV=production node dist/index.js"
   },
