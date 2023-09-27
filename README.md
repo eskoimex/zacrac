@@ -25,6 +25,8 @@ npm run start
 ```
 
 
+## API deployed public using postman
+https://documenter.getpostman.com/view/8425786/2s9YJZ3jMR
 
 ## Live Host URL
 https://zacrac-t475.onrender.com/
